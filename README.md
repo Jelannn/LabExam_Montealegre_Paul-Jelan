@@ -1,0 +1,8 @@
+/*
+Midterm LabExam
+
+index.html has the login page  
+home.html has the homepage with navbar  
+style.css contains the styles for the login page  
+script.js contains the login validation  
+*/
